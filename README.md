@@ -29,3 +29,37 @@
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGRain&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
+
+
+<!--
+ * @Author: guyu
+ * @Description:
+ * @Date: 2021-08-12 23:12:42
+ * @LastEditTime: 2023-09-19 16:24:13
+ * @FilePath: \JGRain\README.md
+-->
+
+### Hi, I'm JGRain. 👋
+
+- 🔭 I’m now working.
+- 🌱 I’m a pupil of front-end learning.
+- 🤔 I’m currently coding in Javascript and Vue.
+- ❤️ I like playing game 🌩 and coding.
+  
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alanHzw&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanHzw&hide_border=true">   
+
+  
+  
+![](https://activity-graph.herokuapp.com/graph?username=alanhzw&theme=github)
+
+<br>  
+
+
+
+##  💕 Thank you for the visit.
+
+![](http://profile-counter.glitch.me/alanhzw/count.svg)
+
+Please give a Star if you like ⭐.
